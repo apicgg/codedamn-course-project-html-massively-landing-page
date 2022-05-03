@@ -82,6 +82,12 @@
   justify-content: flex-start;
   align-items: center;
   list-style: none;
+  height: 100%;
+  padding: 0;
+}
+
+.nav-list li {
+  height: 100%;
 }
 
 .nav-link {
@@ -92,6 +98,8 @@
   font-size: 0.8rem;
   padding: 0 1.5rem;
   display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   height: 100%;
 }
