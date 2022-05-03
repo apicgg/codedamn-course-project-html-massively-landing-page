@@ -32,6 +32,7 @@
   letter-spacing: 0.075rem;
   color: #fff;
   text-align: center;
+  padding-top: 20rem;
 }
 
 .main-content p {
@@ -75,6 +76,7 @@
   justify-content: space-between;
   align-items: center;
   margin: -4rem auto 0 auto;
+  max-width: 72rem;
 }
 
 .nav-list {
@@ -123,6 +125,7 @@
 .sm-icons {
   color: #fff;
   font-size: 1.25rem;
+  padding-right: 1rem;
 }
 
 .sm-icons:hover {
